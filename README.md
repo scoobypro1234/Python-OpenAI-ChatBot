@@ -1,7 +1,9 @@
 # Python-OpenAI-ChatBot
 
-A Chatbot Made With Python, Tkinter and OpenAI. 
-Made Like Windows XP Format :) 
+A Chatbot Made With Python, Tkinter and OpenAI.
+
+Made Like Windows XP Format :)
+
 As A Beginner Programmer
 
 Installation :- 
